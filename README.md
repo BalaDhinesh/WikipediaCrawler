@@ -19,7 +19,7 @@ Given a list of random wikipedia pages link, the task is to crawl to 'Philosophy
 - networkx - to plot connected networks in matplotlib
 
 ## Code:
-[Click Here]("https://github.com/BalaDhinesh/WikipediaCrawler/blob/master/Wikipedia-Crawl.py")
+[Click Here](https://github.com/BalaDhinesh/WikipediaCrawler/blob/master/Wikipedia-Crawl.py)
 
 ## Sample output graph:
-![Crawl]("https://github.com/BalaDhinesh/WikipediaCrawler/blob/master/Sample%20graph.png")
+![Crawl](https://github.com/BalaDhinesh/WikipediaCrawler/blob/master/Sample%20graph.png)
